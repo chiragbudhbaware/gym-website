@@ -9,7 +9,7 @@ The website includes interactive features such as a **mobile navigation menu, sm
 
 # 🌐 Live Demo
 
-👉 https://your-netlify-link.netlify.app
+👉 https://apexfitnessgym.netlify.app
 
 ---
 
@@ -139,3 +139,4 @@ If you want a website like this for your business, feel free to contact.
 ---
 
 © 2026 ApexFitness Gym Website
+
